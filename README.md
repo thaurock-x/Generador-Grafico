@@ -55,3 +55,12 @@ No requiere la instalación de módulos con `npm` ni la configuración de servid
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/tu-usuario/generador-graficos.git](https://github.com/tu-usuario/generador-graficos.git)
+   ```
+   ---
+
+### ​📄 Licencia:
+
+<div align="center">
+Desarrollado con 💚 por <strong>Thaurock</strong>
+</div>
+
