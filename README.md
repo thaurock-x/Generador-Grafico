@@ -1,11 +1,13 @@
 <div align="center">
   <h1>📊 Generador de Gráficos Interactivos</h1>
   <p><strong>Crea, personaliza y analiza gráficos interactivos en segundos directamente desde tu navegador con procesamiento 100% local y privado.</strong></p>
-  [![Version](https://img.shields.io/badge/version-1.0.0-4c4fff.svg?style=for-the-badge)](https://github.com/tu-usuario/generador-graficos)
-  [![License](https://img.shields.io/badge/license-MIT-000000.svg?style=for-the-badge)](LICENSE)
-  [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![Client-Side Privacy](https://img.shields.io/badge/privacy-100%25_client_side-00c853.svg?style=for-the-badge)](#-privacidad-y-seguridad)
+  
+[![Version](https://img.shields.io/badge/version-1.0.0-4c4fff.svg?style=for-the-badge)](https://github.com/tu-usuario/generador-graficos)
+[![License](https://img.shields.io/badge/license-MIT-000000.svg?style=for-the-badge)](LICENSE)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Client-Side Privacy](https://img.shields.io/badge/privacy-100%25_client_side-00c853.svg?style=for-the-badge)](#-privacidad-y-seguridad)
+  
   <br />
   <a href="#-características">Características</a> •
   <a href="#-métricas-y-análisis">Métricas</a> •
