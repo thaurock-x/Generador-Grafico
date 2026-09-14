@@ -16,6 +16,8 @@
   <a href="#-instalación-y-uso">Instalación</a> •
   <a href="#-licencia">Licencia</a>
 </div>
+
+
 ---
 ## 📌 Descripción
 **Generador de Gráficos Interactivos** es una herramienta web ligera y autónoma (*zero-backend*) diseñada para visualizar datos numéricos de forma rápida y personalizada sin depender de software pesado ni servicios en la nube. 
