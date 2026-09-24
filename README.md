@@ -7,6 +7,7 @@
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Client-Side Privacy](https://img.shields.io/badge/privacy-100%25_client_side-00c853.svg?style=for-the-badge)](#-privacidad-y-seguridad)
+[![Demo en vivo](https://img.shields.io/badge/Demo_en_vivo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://generador-grafico.vercel.app)
   
   <br />
   <a href="#-características">Características</a> •
